@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software or analytical framework, please cite it as below."
+authors:
+  - alias: "gelukkig95"
+    name: "gelukkig95"
+title: "The Intrinsic Dimension Illusion in Contextual Language Models: How Zipfian Twin Tokens and Positional Short-Circuits Distort Text Geometry"
+version: "1.0.0"
+date-released: "2026-11-23"
+url: "https://github.com/gelukkig95/intrinsic-dimension-illusion"
+repository-code: "https://github.com/gelukkig95/intrinsic-dimension-illusion"
+license: MIT

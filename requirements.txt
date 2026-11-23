@@ -1,0 +1,9 @@
+# Core CPU verification (reproduce_tables_and_theorem1.py & src/)
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+
+# Optional: full LLM hidden-state extraction (experiments/)
+torch>=2.1
+transformers>=4.45
+huggingface_hub>=0.24
