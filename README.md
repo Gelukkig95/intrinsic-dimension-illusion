@@ -61,7 +61,7 @@ pip install numpy scipy matplotlib
 python reproduce_tables_and_theorem1.py
 ```
 
-I noticed many scholars still don`t know about these phenomena. so if you want to use on a paper or something, free to use my findings as long as you just leave a my github or simple sentence for me :)
+I noticed many scholars still don`t know about these phenomena. so if you want to use on a paper or something, feel free to use my findings as long as you just leave a my github or simple sentence for me :)
 
 
 
