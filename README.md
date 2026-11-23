@@ -61,4 +61,4 @@ pip install numpy scipy matplotlib
 python reproduce_tables_and_theorem1.py
 ```
 
-free to use my finding as long as you just leave a my github or simple sentence for me :)
+free to use my findings as long as you just leave a my github or simple sentence for me :)
