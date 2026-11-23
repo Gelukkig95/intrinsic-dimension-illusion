@@ -61,8 +61,8 @@ pip install numpy scipy matplotlib
 python reproduce_tables_and_theorem1.py
 ```
 
-free to use my findings as long as you just leave a my github or simple sentence for me :)
+I noticed many scholars still don`t know about these phenomena. so if you want to use on a paper or something, free to use my findings as long as you just leave a my github or simple sentence for me :)
 
 
 
-you maybe need to do more experiments on broad scale data, but what I found is genuine
+you maybe need to do more experiments on broad scale data, but what I found is genuine.
