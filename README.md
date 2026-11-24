@@ -63,8 +63,4 @@ pip install numpy scipy matplotlib
 python reproduce_tables_and_theorem1.py
 ```
 
-I noticed many scholars still don`t know about these phenomena. so if you want to use on a paper or something, feel free to use my findings as long as you just leave a my github or simple sentence for me :)
-
-
-
-you maybe need to do more experiments on broad scale data, but what I found is genuine.
+Even recent studies on LLM intrinsic dimension (e.g., Viswanathan et al., NeurIPS 2025; Pedashenko et al., EACL 2026; Yusupov et al., 2026) still rely on unmasked estimators without accounting for these short-circuit artifacts. Feel free to use or build upon these findings and code in your own papers as long as cite this GitHub repository or Zenodo DOI (10.5281/zenodo.24486039). Broader-scale validation is always welcome, though the collapse mechanism shown here is mathematically grounded and reproducible.
