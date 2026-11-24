@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1469347801.svg)](https://doi.org/10.5281/zenodo.24486039)
+
 # The Intrinsic Dimension Illusion in Contextual Language Models
 
 Single-passage intrinsic dimension (ID) estimates of LLM hidden states (`TwoNN`, `MLE`, `GRIDE`, `MST-PHD`) are widely reported in a narrow band (`ID ≈ 5–15`). We show this band—and several downstream conclusions built on it—is largely a measurement artifact caused by **Zipfian twin stems** and **adjacent sequence positions** ($`\lvert i - j \rvert \le 1`$) hijacking local neighborhoods.
